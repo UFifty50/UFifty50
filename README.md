@@ -7,7 +7,7 @@
 
 ## Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=UFifty50)](https://github.com/anuraghazra/github-readme-stats)
+![UFifty50's github stats](https://github-readme-stats.vercel.app/api?username=UFifty50&show_icons=true&theme=tokyonight)
 
 #### viewcount
 
