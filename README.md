@@ -6,10 +6,10 @@
   - the slightly abandoned GUI-FTC-CTF-LYD, i have plans to completely rework it
   - i ocasionally revisit Qos/qpm
   - and we dont talk about MethX (i should probably upload that too thinking about it)
-- 💬 Ask me about simple python, Im learning!
+  - check out my portfolio in, you guessed it, the ``portfolio`` repo
 - 📫 My email is UFifty50.GitHub@gmail.com
 
-- <.> my website is https://ufifty50.mywire.org:80/
+- <.> my website is https://ufifty50.mywire.org:80/ (currently down)
 
 ## Stats
 
