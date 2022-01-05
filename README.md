@@ -3,13 +3,15 @@
 
 - 🔭 I’m currently working on way too many projects!
   - main one being Jonty (Formerly PogBot), a fun lil' discord bot
-  - the slightly abandoned GUI-FTC-CTF-LYD, i have plans to completely rework it
+  - the abandoned GUI-FTC-CTF-LYD, i have plans to completely rework it
   - i ocasionally revisit Qos/qpm
   - and we dont talk about MethX (i should probably upload that too thinking about it)
   - check out my portfolio in, you guessed it, the ``portfolio`` repo
+- languages I know: Python, Java, Typescript
+- languages I'm learning: C, x86/arm assembly
 - 📫 My email is UFifty50.GitHub@gmail.com
 
-- <.> my website is https://ufifty50.mywire.org:80/ (currently down)
+- <.> my website is https://ufifty50.rf.gd/
 
 ## Stats
 
