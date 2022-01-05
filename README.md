@@ -11,7 +11,7 @@
 - languages I'm learning: C, x86/arm assembly
 - 📫 My email is UFifty50.GitHub@gmail.com
 
-- <.> my website is http://ufifty50.rf.gd/
+- <.> my website is http://ufifty50.rf.gd/ (Currently under heavy development)
 
 ## Stats
 
