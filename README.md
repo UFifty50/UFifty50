@@ -3,11 +3,10 @@
 
 - 🔭 I’m currently working on way too many projects!
   - main one being Jonty (Formerly PogBot), a fun lil' discord bot
-  - the abandoned GUI-FTC-CTF-LYD, i have plans to completely remake it in java
   - i ocasionally revisit Qos/qpm
   - and we dont talk about MethX (i should probably upload that too thinking about it)
   - check out my portfolio in, you guessed it, the ``portfolio`` repo
-- languages I know: Python, Java, and a lil' bit of Typescript
+- languages I know: Python, Java, and a lil' bit of Typescript/rust
 - languages I'm learning: rust
 - 📫 My email is UFifty50.GitHub@gmail.com
 
