@@ -6,7 +6,7 @@
   - i ocasionally revisit Qos/qpm
   - and we dont talk about MethX (i should probably upload that too thinking about it)
   - check out my portfolio in, you guessed it, the ``portfolio`` repo
-- languages I know: Python, Java, and a lil' bit of Typescript/rust
+- languages I know: Python, Java, and a lil' bit of Typescript
 - languages I'm learning: rust
 - 📫 My email is UFifty50.GitHub@gmail.com
 
