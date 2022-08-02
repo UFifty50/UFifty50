@@ -1,16 +1,14 @@
 # Hi there 👋
-### Im **✨ UFifty50 ✨**
+### Im **✨ UFifty50sh ✨**
 
-- 🔭 I’m currently working on way too many projects!
-  - main one being Jonty (Formerly PogBot), a fun lil' discord bot
-  - i ocasionally revisit Qos/qpm
-  - and we dont talk about MethX (i should probably upload that too thinking about it)
-  - check out my portfolio in, you guessed it, the ``portfolio`` repo
+- 🔭  currently working on wayyyy too many projects
+  - check out my portfolio in the ``portfolio`` repo
 - languages I know: Python, Java, and a lil' bit of Typescript
-- languages I'm learning: rust
-- 📫 My email is UFifty50.GitHub@gmail.com
+- languages I'm learning: C, x86 assembly
 
-- <.> my website is http://ufifty50.rf.gd/ (Currently under heavy development)
+- 📫 My email: UFifty50.GitHub@gmail.com
+
+- <.> my website: http://ufifty50.rf.gd/ (Currently under heavy development) (i.e. theres nothing there atm)
 
 ## Stats
 
