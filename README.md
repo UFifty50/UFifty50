@@ -3,8 +3,8 @@
 
 - 🔭  currently working on wayyyy too many projects
   - check out my portfolio in the ``portfolio`` repo
-- languages I know: Python, Java, and a lil' bit of Typescript
-- languages I'm learning: C, x86 assembly
+- languages I know: Python, Java, rust and C++
+- languages I'm learning: typescipt
 
 - 📫 My email: UFifty50.GitHub@gmail.com
 
