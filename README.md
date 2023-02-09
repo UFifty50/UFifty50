@@ -4,7 +4,7 @@
 - 🔭  currently working on wayyyy too many projects
   - check out my portfolio in the ``portfolio`` repo
 - languages I know: Python, Java, rust and C++
-- languages I'm learning: typescipt
+- languages I'm learning: none (reinforcing my rust and C++ knowledge)
 
 - 📫 My email: UFifty50.GitHub@gmail.com
 
