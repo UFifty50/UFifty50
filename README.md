@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/e55dadce-a635-4a9c-8146-9ea0911f7ead.svg)](https://wakatime.com/@e55dadce-a635-4a9c-8146-9ea0911f7ead)
+
 # Hi there 👋
 ### Im **✨ UFifty50sh ✨**
 
